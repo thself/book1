@@ -1,0 +1,4 @@
+[Gluonics]
+[Sevenonics]
+
+Gluonic propagation via radiation.
